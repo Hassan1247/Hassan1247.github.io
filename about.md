@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 published: true
 ---
-Info
+سلام، من حسن موسی آبادی کارشناس ارشد مهندسی نرم‌افزار هستم.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+در آینده تکمیل خواهد شد!
 
 ### Contact me
 
